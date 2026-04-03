@@ -1,6 +1,3 @@
-Got it — I’ll **animate your exact content** without changing the meaning, just enhancing it visually with typing effects, badges, and GIFs.
-
-Here’s your **animated README.md** 👇
 
 ---
 
