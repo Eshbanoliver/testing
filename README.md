@@ -107,8 +107,3 @@ cd test-repo
 
 ---
 
-If you want next level 🔥 I can:
-
-* Add **dark/light mode auto-switching README**
-* Add **real GitHub stats + contribution graph snake animation 🐍**
-* Or convert this into a **portfolio-style README** (very premium look)
