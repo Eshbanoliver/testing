@@ -60,9 +60,7 @@ This is a test repository, but contributions are always welcome!
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
