@@ -67,5 +67,3 @@ This is a test repository, but contributions are always welcome!
 If you have any questions or suggestions, feel free to reach out.
 
 ---
-
-If you want, I can customize it for a specific project (like your **DevPulse idea** or WordPress plugins).
