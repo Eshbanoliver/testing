@@ -1,7 +1,5 @@
 
 
----
-
 # 🚀 Test Repository
 
 This is a simple test repository created to explore and practice GitHub features such as version control, commits, branching, and collaboration.
